@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 public class Stack <T> {
 
-    MyLinkedList<T> linkedList;
+	MyLinkedList<T> linkedList;
 
     public Stack() {
         this.linkedList = new MyLinkedList<>();
